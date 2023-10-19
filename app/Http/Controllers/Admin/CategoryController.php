@@ -10,7 +10,7 @@ use Illuminate\Support\Facades\File;
 use App\Http\Requests\Admin\CategoryFormRequest;
 use Illuminate\Support\Str;
 
-
+//Це для тесту Git
 class CategoryController extends Controller
 {
     public function index()
